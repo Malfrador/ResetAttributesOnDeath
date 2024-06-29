@@ -1,0 +1,4 @@
+name: ResetAttributesOnDeath
+version: '${version}'
+main: de.malfrador.resetattributesondeath.ResetAttributesOnDeath
+api-version: '1.21'
